@@ -2,8 +2,6 @@ import teradatasql as t
 import pandas as pd
 import string
 import math
-import signal
-from time import sleep
 
 class upload_to_tera:
     """
